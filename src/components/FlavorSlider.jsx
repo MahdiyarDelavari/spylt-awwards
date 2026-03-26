@@ -26,7 +26,7 @@ const FlavorSlider = () => {
 			});
 
 			tl.to(".flavor-section", {
-				x: `-${scrollAmount + 1500}px`,
+				x: `-${scrollAmount + 1600}px`,
 				ease: "power1.inOut",
 			});
 		}
