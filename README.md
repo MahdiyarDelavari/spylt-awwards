@@ -54,13 +54,13 @@ public/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/p5-spylt-Awwards.git
+   git clone https://github.com/MahdiyarDelavari/spylt-awwards.git
    ```
 
 2. **Navigate to the project**:
 
    ```bash
-   cd p5-spylt-Awwards
+   cd spylt-Awwards
    ```
 
 3. **Install dependencies**:
